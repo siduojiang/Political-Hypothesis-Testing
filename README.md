@@ -1,6 +1,6 @@
 # Political_Hypothesis_Testing
 
-The purpose of this report is to utilize hypothesis testing techniques to address social and political questions concerning attitude and preferences of the general American public. Data is obtained from the 2018 ANES Pilot Study [1]. For each question, we will operationalize the concepts, conduct exploratory analysis, deal with non-response and other special codes, perform sanity checks, select an appropriate hypothesis test, conduct the test, and interpret our results. We will utilize techniques for comparing proportions, testing differences between ordinal responses, and differences between means. The five key questions we will address are:
+The purpose of this report is to utilize hypothesis testing techniques to address social and political questions concerning attitude and preferences of the general American public. Data is obtained from the 2018 ANES Pilot Study. For each question, we will operationalize the concepts, conduct exploratory analysis, deal with non-response and other special codes, perform sanity checks, select an appropriate hypothesis test, conduct the test, and interpret our results. We will utilize techniques for comparing proportions, testing differences between ordinal responses, and differences between means. The five key questions we will address are:
 
 1. Do US voters have more respect for the police or for journalists?
 2. Are Republican voters older or younger than Democratic voters?
